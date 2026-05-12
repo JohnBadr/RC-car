@@ -5,4 +5,3 @@
 #include <Servo.h>
 
 extern Servo myServo;
-extern int pos;
